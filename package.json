@@ -3,6 +3,7 @@
   "displayName": ".mcf to .mcfunction",
   "description": "Automatically change \".mcf\" file extension to \".mcfunction\"",
   "version": "0.0.1",
+  "publisher": "omrih",
   "engines": {
     "vscode": "^1.96.0"
   },
